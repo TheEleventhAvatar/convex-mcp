@@ -7,9 +7,7 @@ Build a stateless MCP endpoint on top of Convex.
 - **Tools** - Register Convex functions as MCP tools
 - **Prompts** - Define MCP prompts with Zod args
 - **Resources** - Expose static and templated MCP resources from Convex functions
-- **Auth** - Optional Bearer auth on `/mcp`
 
-Note: It does not currently support prompt/resource completions or SSE/session transports.
 
 ## Quick Start
 
