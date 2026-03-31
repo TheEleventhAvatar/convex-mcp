@@ -1,5 +1,5 @@
 {
-  "name": "convex-mcp",
+  "name": "@vibeflow/convex-mcp",
   "version": "0.1.0",
   "description": "Convex helpers for exposing MCP tools, prompts, and resources",
   "type": "module",
@@ -24,7 +24,20 @@
     "mcp",
     "component"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vibeflowing-inc/convex-mcp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vibeflowing-inc/convex-mcp/issues"
+  },
+  "homepage": "https://github.com/vibeflowing-inc/convex-mcp#readme",
   "license": "MIT",
+  "author": {
+    "name": "VibeFlowing inc",
+    "email": "founders@vibeflow.ai",
+    "url": "https://vibeflow.ai"
+  },
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.28.0",
     "zod": "^4.3.6"
